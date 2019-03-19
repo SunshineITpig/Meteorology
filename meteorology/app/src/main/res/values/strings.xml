@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">气象站</string>
+    <string name="hello">气象无忧</string>
+    <string name="turn_on_send">开启发送</string>
+    <string name="turn_off_send">关闭发送</string>
+    <string name="turn_on_receiver">开启接受</string>
+    <string name="turn_off_receiver">关闭接受</string>
+    <string name="link_wifi">一键连接WiFi</string>
+</resources>
